@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a GMU Junior. 
-- 👀 I’m interested in internships in capital one
+- 👀 I’m interested in internships
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on Get hub
 - 📫 How to reach me mehriya2
