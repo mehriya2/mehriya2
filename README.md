@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a GMU Junior. 
+- 👋 Hi, I’m a GMU Senior. 
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on Get hub
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me mehriya2
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact:
